@@ -11,7 +11,7 @@
 
 - 📊 Aspiring Data Analyst passionate about solving business problems with data.
 - 🎓 Final Year B.Tech Student.
-- 🌱 Currently learning Excel, SQL, Power BI and Python for Data Analytics.
+- 🌱 Currently learning SQL, Tableau, Power BI and Python for Data Analytics.
 - 📈 Interested in Data Visualization, Business Intelligence and Exploratory Data Analysis.
 - 🚀 Building projects that turn raw data into actionable insights.
 
