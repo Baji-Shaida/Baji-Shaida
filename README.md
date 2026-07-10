@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Shaik Baji Shaida</h1>
 <h3 align="center">Aspiring Data Analyst | Excel • SQL • Power BI • Python</h3>
 
