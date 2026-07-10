@@ -68,14 +68,14 @@
 
 ## 📂 Featured Projects
 
-| Project | Status |
-|---------|--------|
-| 📊 Sales Dashboard | 🚧 Coming Soon |
-| 📈 HR Analytics Dashboard | 🚧 Coming Soon |
-| 🛒 Retail Sales Analysis | 🚧 Coming Soon |
-| 🐍 Python Data Analysis | 🚧 Coming Soon |
-| 🗄️ SQL Case Studies | 🚧 Coming Soon |
-| 📰 Fake News Detection | ✅ Completed |
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 📰 Fake News Detection | Machine Learning web application for fake news classification | Python, Scikit-Learn |
+| 📊 Sales Dashboard | Interactive sales dashboard with KPIs and business insights | Excel, Power BI |
+| 🛒 Retail Sales Analysis | Sales trend and customer analysis | SQL, Power BI |
+| 👥 HR Analytics Dashboard | Employee attrition and workforce insights | Power BI |
+| 🎬 Netflix Data Analysis | Exploratory Data Analysis on Netflix dataset | Python, Pandas |
+| 🧹 Data Cleaning Toolkit | Data cleaning and preprocessing using Python | Python, Pandas |
 
 ---
 
