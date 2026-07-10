@@ -1,47 +1,37 @@
 <h1 align="center">Hi 👋, I'm Shaik Baji Shaida</h1>
-<h3 align="center">AI Engineer | Python Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | Excel • SQL • Power BI • Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Real-World+AI+Projects;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Transforming+Data+into+Insights;Always+Learning+and+Building" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Building AI-powered applications using Python
-- 🌱 Currently learning Deep Learning, Data Analytics & Process Mining
-- 🚀 Working on real-world AI projects
-- 🎯 Goal: Become an AI Engineer
+- 📊 Aspiring Data Analyst passionate about solving business problems with data.
+- 🎓 Final Year B.Tech Student.
+- 🌱 Currently learning Excel, SQL, Power BI and Python for Data Analytics.
+- 📈 Interested in Data Visualization, Business Intelligence and Exploratory Data Analysis.
+- 🚀 Building projects that turn raw data into actionable insights.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 </p>
 
-### AI / ML
-
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
 ---
@@ -64,31 +54,35 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Baji-Shaida&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 📰 Fake News Detector | AI-powered Fake News Detection Web Application |
-| 🤖 AI Voice Assistant | Desktop Voice Assistant using Python |
-| 👤 Face Recognition Attendance | Smart Attendance using OpenCV |
-| 📊 Process Mining | Process Mining Analysis Project |
-| 📈 Data Analytics | Excel & Python Data Analytics Projects |
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baji-Shaida&theme=tokyo-night"/>
 </p>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Status |
+|---------|--------|
+| 📊 Sales Dashboard | 🚧 Coming Soon |
+| 📈 HR Analytics Dashboard | 🚧 Coming Soon |
+| 🛒 Retail Sales Analysis | 🚧 Coming Soon |
+| 🐍 Python Data Analysis | 🚧 Coming Soon |
+| 🗄️ SQL Case Studies | 🚧 Coming Soon |
+| 📰 Fake News Detection | ✅ Completed |
+
+---
+
+## 📚 Currently Learning
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python for Data Analysis
+- Statistics
+- Data Visualization
 
 ---
 
@@ -103,11 +97,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Replace this with your LinkedIn URL -->
 <a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -117,5 +109,5 @@
 </p>
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+📊 Turning Data into Insights
 </h3>
